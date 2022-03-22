@@ -7,6 +7,9 @@ import { useMovies } from '../../hooks/useMovies/useMovies';
 function Movies() {
 	const { data: movies } = useMovies();
 
+function Movies() {
+	const { data: movies } = useMovies();
+
 	return (
 		<Container>
 			<h2>Movies</h2>
@@ -23,6 +26,7 @@ function Movies() {
 			)}
 		</Container>
 	);
+}
 }
 
 export default Movies;
