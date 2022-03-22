@@ -27,6 +27,7 @@ function Movies() {
 		</Container>
 	);
 }
+}
 
 export default Movies;
 
