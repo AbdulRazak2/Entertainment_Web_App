@@ -21,4 +21,3 @@ export default userReducer;
 
 const getState = (store) => store.user;
 export const getUser = createSelector(getState, ({ user }) => user);
-

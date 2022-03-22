@@ -5,6 +5,7 @@ export function useDropdown() {
 	const ref = useRef();
 	const [expanded, setExpanded] = useState(false);
 
+	// extract the ref from this hook if you want to use the close onBlur functionality
 	useEffect(() => {
 		function handleBlur(e) {
 			!ref.current?.contains(e.target) && setExpanded(false);
