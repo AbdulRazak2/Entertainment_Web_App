@@ -3,10 +3,12 @@ import styled from 'styled-components';
 import MovieCard from '../../components/cards/MovieCard';
 import { MovieGrid } from '../../components/styled-components/MovieGrid';
 import { useMovies } from '../../hooks/useMovies/useMovies';
-//movies data function
+
 function Movies() {
 	const { data: movies } = useMovies();
 
+function Movies() {
+	const { data: movies } = useMovies();
 
 	return (
 		<Container>
