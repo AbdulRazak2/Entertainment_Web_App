@@ -1,1 +1,1 @@
-// export async function search(query) {}
+export async function search(query) {}
