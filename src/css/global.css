@@ -10,7 +10,7 @@
 :root {
 	font-size: 52.5%;
 
-	/* colors */
+	/* COLORS */
 	--red: #fc4747;
 	--dark: #10141e;
 	--dark-transparent: #10141e80;
@@ -18,14 +18,14 @@
 	--blue: #5a698f;
 	--blue-dark: #161d2f;
 
-	/* font sizes */
+	/* FONT SIZES */
 	--size-300: 1.3rem;
 	--size-400: 1.5rem;
 	--size-500: 1.8rem;
 	--size-600: 2.4rem;
 	--size-700: 3.2rem;
 
-	/* others */
+	/* OTHER */
 	--radius-300: 0.4em;
 	--radius-400: 0.8em;
 	--radius-500: 1.4em;
@@ -98,4 +98,3 @@ input {
 	caret-color: var(--red);
 	min-width: 0;
 }
-
