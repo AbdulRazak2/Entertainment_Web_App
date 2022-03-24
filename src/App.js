@@ -29,22 +29,20 @@ function App() {
 		const unsuscribe = onAuthStateChanged(auth, (user) => {
 			dispatch(setUser(user ? { uid: user.uid } : user));
 			!authInitialized && setAuthInitialized(true);
-			// clear cache
+			
 			queryClient.invalidateQueries();
 		});
 		return unsuscribe;
 	}, []);
-
-	// dont render entrie app till firebase has initialized auth
 	
-	// to avoid redirecting to login page even when user exists
+	
 	return authInitialized ? (
 		<Routes>
 			<Route path={routes.login} element={<Login />} />
 			<Route path={routes.signUp} element={<SignUp />} />
 			<Route
 				path='*'
-				// return a redirect to login page if user is null
+				
 				element={
 					user ? (
 						<Layout>
