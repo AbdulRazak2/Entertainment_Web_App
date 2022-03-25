@@ -7,7 +7,6 @@ export function useBookmarks() {
 
 	const { data, isLoading, error } = useQuery('getBookmarks', getBookmarks, {
 		refetchOnWindowFocus: false,
-		//this is bad for clearing cache
 		// refetchOnMount: false,
 	});
 

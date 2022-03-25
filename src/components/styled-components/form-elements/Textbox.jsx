@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+// Input Textbox styled
 
 export const Textbox = styled.input`
 	padding: 1.8rem 1rem;

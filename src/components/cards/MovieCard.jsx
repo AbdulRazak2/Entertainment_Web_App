@@ -13,6 +13,7 @@ import {
 	Info,
 } from './SharedStyles';
 
+// Monvies details
 function MovieCard({ movie }) {
 	const {
 		id,
@@ -62,6 +63,7 @@ function MovieCard({ movie }) {
 
 export default MovieCard;
 
+//styled of movies details
 const Container = styled.div`
 	display: grid;
 	gap: 1rem;

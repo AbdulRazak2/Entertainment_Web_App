@@ -5,6 +5,8 @@ import { desktop } from '../../constants/mediaQueries';
 import { auth } from '../../firebase/init';
 import { useDropdown } from '../../hooks/useDropdown';
 
+//Authentication on handle signOut
+
 function Profile() {
 	const { ref, expanded, handleToggleExpanded } = useDropdown();
 
