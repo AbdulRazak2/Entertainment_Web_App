@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 
+//Bookmark styled using styled-components
+
 export const BookmarkBtn = styled.button`
 	position: absolute;
 	top: 2rem;
@@ -23,6 +25,7 @@ export const BookmarkBtn = styled.button`
 	}
 `;
 
+//BookmarkIcon and image styled
 export const BookmarkIcon = styled.img`
 	opacity: ${(p) => (p.visible ? '1' : '0')};
 	position: ${(p) => (p.visible ? 'unset' : 'absolute')};
@@ -41,6 +44,8 @@ export const Dot = styled.span`
 	border-radius: 50%;
 	background: var(--light);
 `;
+
+//Display category styled 
 
 export const Category = styled.div`
 	display: flex;

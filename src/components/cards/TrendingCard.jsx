@@ -12,6 +12,8 @@ import {
 	Info,
 } from './SharedStyles';
 
+//Trending card details and its styled
+
 function TrendingCard({ movie }) {
 	const {
 		id,

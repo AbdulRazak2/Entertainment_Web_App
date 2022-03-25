@@ -4,6 +4,8 @@ import styled from 'styled-components';
 import { Error } from '../styled-components/Error';
 import { Textbox as TextboxEl } from '../styled-components/form-elements/Textbox';
 
+//Textbox function and it styled
+
 function Textbox(props) {
 	const [fields, meta] = useField(props);
 	const error = meta.touched && meta.error;

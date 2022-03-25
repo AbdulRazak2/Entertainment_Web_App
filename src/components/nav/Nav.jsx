@@ -9,6 +9,8 @@ import { desktop, tablet } from '../../constants/mediaQueries';
 import { routes } from '../../constants/routes';
 import Profile from './Profile';
 
+//Navigation througth homeIcome, moviesIcon, TvShowsIcon, BookIcon
+
 function Nav() {
 	const { pathname } = useLocation();
 	const links = [
@@ -44,6 +46,8 @@ function Nav() {
 
 export default Nav;
 
+//styled for Nav
+
 const Container = styled.div`
 	background: var(--blue-dark);
 	display: grid;
@@ -53,10 +57,14 @@ const Container = styled.div`
 	justify-items: center;
 	padding: 0 2rem;
 
+	//Responsiveness on tablet
+
 	@media (min-width: ${tablet}) {
 		margin: var(--layout-gap) var(--layout-gap) 0 var(--layout-gap);
 		border-radius: var(--radius-400);
 	}
+
+	//Responsiveness on Desktop
 
 	@media (min-width: ${desktop}) {
 		grid-template-columns: unset;
@@ -103,6 +111,8 @@ const StyledLink = styled.a`
 			fill: var(--light);
 		}
 	}
+
+	//Active state
 
 	${(p) =>
 		p.active &&
