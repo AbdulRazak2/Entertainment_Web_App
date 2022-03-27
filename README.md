@@ -1,15 +1,11 @@
 # Entertainment web app solution
 
-This is my solution to Amalitech capstone project on the Entertainment web app. This Frontend challenge was to help me improve on my coding skills by building realistic project.
-
 ## Table of contents
 
   - Project Title
   - Project Objective
   - Customer Requirements
   - Acceptance Criteria
-  - Deliverables
-  - Evaluation Criteria
   - Screenshot
   - inks
   - Built with
@@ -23,7 +19,7 @@ This is my solution to Amalitech capstone project on the Entertainment web app. 
   My challenge was to build out this multi-page entertainment web application and get it looking as close to the design as possible.
 
 ## Customer Requirements:
-   Your users should be able to:
+  Your users should be able to:
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Navigate between Home, Movies, TV Series, and Bookmarked Shows pages
@@ -85,7 +81,13 @@ in the system
 
 ### Screenshot
 
+![img](./public/entertain.png)
 
+![text](./public/entertain1.png)
+
+### Process
+
+This is my solution to Amalitech capstone project on the Entertainment web app. This Frontend challenge was to help me improve on my coding skills by building realistic project.
 
 ### Links
 
