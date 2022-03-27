@@ -1,20 +1,16 @@
 # Entertainment web app solution
 
-This is my solution to Amalitech capstone project on the Entertainment web app. This Frontend challenge was to help me improve on my coding skills by building realistic project.
-
 ## Table of contents
 
-  Project Title
-  Project Objective
-  Customer Requirements
-  Acceptance Criteria
-  Deliverables
-  Evaluation Criteria
-  Screenshot
-  inks
-  Built with
-  Useful resources
-  Author.
+  - Project Title
+  - Project Objective
+  - Customer Requirements
+  - Acceptance Criteria
+  - Screenshot
+  - inks
+  - Built with
+  - Useful resources
+  - Author.
 
 ##  Project Title: 
     Entertainment web app.
@@ -23,7 +19,7 @@ This is my solution to Amalitech capstone project on the Entertainment web app. 
   My challenge was to build out this multi-page entertainment web application and get it looking as close to the design as possible.
 
 ## Customer Requirements:
-   Your users should be able to:
+  Your users should be able to:
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Navigate between Home, Movies, TV Series, and Bookmarked Shows pages
@@ -85,32 +81,33 @@ in the system
 
 ### Screenshot
 
-![](./screenshot.png)
+![img](./public/entertain.png)
+
+![text](./public/entertain1.png)
+
+### Process
+
+This is my solution to Amalitech capstone project on the Entertainment web app. This Frontend challenge was to help me improve on my coding skills by building realistic project.
 
 ### Links
 
-- Solution URL: [Visit](https://github.com/AbdulRazak2/Entertainment_web_app.git)
-- Live Site URL: https://alhassanabdulrazak.netlify.app/
+- [Solution URL]: https://github.com/AbdulRazak2/Entertainment_web_app.git
+- [Live Site URL]: https://alhassanabdulrazak.netlify.app/
 
 ### Built with
 
+-  [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Desktop-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 ### Useful resources
 
+- figma:
 - https://auth0.com/blog/complete-guide-to-react-user-authentication/
 - https://www.youtube.com/watch?v=b9eMGE7QtTk
-- figma: 
-- Input Props with Typescript: This helped me for creating Input props type with typescript. I really liked this pattern and will use it going forward.
-- [Responsive picture: This helped me for creating repsonsive images using picture and source tags.
-- [Negative CSS variable](https://stackoverflow.com/questions/49469344/using-negative-css-custom-properties) - This is an amazing article which helped me knowing how to use negative with CSS variable.
+
 
 ## Author
-
 Alhassan Abdul-Razak
