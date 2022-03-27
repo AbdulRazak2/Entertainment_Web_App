@@ -104,6 +104,8 @@ in the system
 
 ### Useful resources
 
+- https://auth0.com/blog/complete-guide-to-react-user-authentication/
+- https://www.youtube.com/watch?v=b9eMGE7QtTk
 - figma: 
 - Input Props with Typescript: This helped me for creating Input props type with typescript. I really liked this pattern and will use it going forward.
 - [Responsive picture: This helped me for creating repsonsive images using picture and source tags.
