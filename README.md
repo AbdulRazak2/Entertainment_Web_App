@@ -90,7 +90,7 @@ in the system
 ### Links
 
 - Solution URL: [Visit](https://github.com/AbdulRazak2/Entertainment_web_app.git)
-- Live Site URL: [Visit](https://phenomenal-otter-8628a3.netlify.app/)
+- Live Site URL: https://alhassanabdulrazak.netlify.app/
 
 ### Built with
 
