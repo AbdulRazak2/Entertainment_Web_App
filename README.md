@@ -7,6 +7,7 @@
   - Customer Requirements
   - Acceptance Criteria
   - Screenshot
+  - Process
   - inks
   - Built with
   - Useful resources
@@ -100,13 +101,14 @@ This is my solution to Amalitech capstone project on the Entertainment web app. 
 - [Styled Components](https://styled-components.com/) - For styles
 - Semantic HTML5 markup
 - CSS custom properties
+- Firebase
 
 
 ### Useful resources
 
 - figma:
-- https://auth0.com/blog/complete-guide-to-react-user-authentication/
-- https://www.youtube.com/watch?v=b9eMGE7QtTk
+- [Firebase](https://auth0.com/blog/complete-guide-to-react-user-authentication/).complete-guide-to-react-user-authentication
+- [Youtube](https://www.youtube.com/watch?v=b9eMGE7QtTk).youtube guide tutorial
 
 
 ## Author
