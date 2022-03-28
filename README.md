@@ -83,7 +83,7 @@ in the system
 
 ![img](./public/entertain.png)
 
-![text](./public/entertain1.png)
+![image](./public/entertain1.png)
 
 ### Process
 
@@ -91,8 +91,8 @@ This is my solution to Amalitech capstone project on the Entertainment web app. 
 
 ### Links
 
-- [Solution URL]: https://github.com/AbdulRazak2/Entertainment_web_app.git
-- [Live Site URL]: https://alhassanabdulrazak.netlify.app/
+- [Solution URL](https://github.com/AbdulRazak2/Entertainment_web_app.git)
+- [Live Site URL](https://alhassanabdulrazak.netlify.app/) 
 
 ### Built with
 
