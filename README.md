@@ -84,16 +84,16 @@ in the system
 
 ![img](./public/entertain.png)
 
-![image](./public/entertain1.png)
+<!-- ![image](./public/entertain1.png) -->
 
 ### Process
 
-This is my solution to Amalitech capstone project on the Entertainment web app. This Frontend challenge was to help me improve on my coding skills by building realistic project.
+This is my solution to Amalitech capstone project on the Entertainment web app. This Frontend challenge is to help me improve on my coding skills by building realistic project.
 
 ### Links
 
-- [Solution URL](https://github.com/AbdulRazak2/Entertainment_web_app.git)
-- [Live Site URL](https://alhassanabdulrazak.netlify.app/) 
+- Solution URL: [Visit](https://github.com/AbdulRazak2/Entertainment_web_app.git)
+- Live Site URL: [Visit](https://alhassanabdulrazak.netlify.app/) 
 
 ### Built with
 

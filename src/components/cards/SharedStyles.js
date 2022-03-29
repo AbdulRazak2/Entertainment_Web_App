@@ -19,10 +19,6 @@ export const BookmarkBtn = styled.button`
   &:hover {
     transform: scale(1.1);
   }
-
-  &:active {
-    transform: scale(0.95);
-  }
 `;
 
 //BookmarkIcon and image styled
