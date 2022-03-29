@@ -37,54 +37,63 @@ a. The navigation menu should be fixed to the left for larger screens. Use the
 
 2. Home
 
-a. The trending section should scroll sideways to reveal other trending shows
-b. Any search input should search through all shows (i.e., all movies and TV series)
+a. The trending section should scroll sideways to reveal other trending shows.
+
+b. Any search input should search through all shows (i.e., all movies and TV series).
 
 3. Movies
 
-a. This page should only display shows with the "Movie" category
-b. Any search input should search through all movies
+a. This page should only display shows with the "Movie" category.
+
+b. Any search input should search through all movies.
 
 4. TV Series
 
-a. This page should only display shows with the "TV Series" category
+a. This page should only display shows with the "TV Series" category.
+
 b. Any search input should search through all TV series
 
 5. Bookmarked Shows
 
-a. This page should display all bookmarked shows from both categories
+a. This page should display all bookmarked shows from both categories.
+
 b. Any search input should search through all bookmarked shows
 
 6. Registration
 
-a. The email field accepts only valid email addresses
-b. The user should get a prompt when the email entered is already in the database 
-(user already exists)
-c. The password is a minimum of 8 characters
-d. The user clicks the sign-up button and a prompt message “Confirmation email 
+a. The email field accepts only valid email addresses.
+
+b. The user should get a prompt when the email entered is already in the database (user already exists).
+
+c. The password is a minimum of 8 characters.
+
+d. The user clicks the sign-up button and a prompt message “Confirmation email.
+
 has been sent to the user's email address” shows.
-e. The user receives the confirmation email. (Simple text with confirmation code)
+e. The user receives the confirmation email. (Simple text with confirmation code).
+
 f. A unique ID is what distinguishes different users.
-g. The unique ID should be auto-generated once and saved in the database
+
+g. The unique ID should be auto-generated once and saved in the database.
+
 h. The unique ID should exist in the database and be permanent.
-i. Use local storage as your database
+
+i. Use local storage as your database.
 
 7. Log in
 
-a. When a user enters a registered email address and their password used in 
-registering, they should see a prompt which tells them that their login was 
-successful.
-b. In the case of a correct email address (registered email) and a wrong password 
-combination, the system should prompt them that their password is wrong.
-c. In the case of a wrong email address (unregistered email) and a password 
-combination, the system should prompt them that their email address doesn’t exist 
-in the system
+a. When a user enters a registered email address and their password used in.
+
+registering, they should see a prompt which tells them that their login was successful.
+
+b. In the case of a correct email address (registered email) and a wrong password combination, the system should prompt them that their password is wrong.
+
+c. In the case of a wrong email address (unregistered email) and a password combination, the system should prompt them that their email address doesn’t exist in the system.
 
 ### Screenshot
 
 ![img](./public/entertain.png)
 
-<!-- ![image](./public/entertain1.png) -->
 
 ### Process
 
