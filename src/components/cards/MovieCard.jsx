@@ -71,10 +71,14 @@ const Container = styled.div`
 	min-width: 25rem;
 	min-height: 20rem;
 `;
-
+//add hover state 
 const ThumbnailContainer = styled.div`
 	display: flex;
 	position: relative;
+	&:hover {
+		transform: scale(0.9);
+		transition-duration: 0.9s;
+}
 `;
 
 const Thumbnail = styled(FadeInImage)`
