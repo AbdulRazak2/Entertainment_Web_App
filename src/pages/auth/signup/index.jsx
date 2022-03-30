@@ -64,7 +64,7 @@ function SignUp() {
 								name='password'
 							/>
 							<Textbox
-								placeholder='Repeat Password'
+								placeholder='Confirm password'
 								type='password'
 								name='confirmPassword'
 							/>

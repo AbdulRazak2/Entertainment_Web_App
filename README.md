@@ -67,9 +67,8 @@ b. The user should get a prompt when the email entered is already in the databas
 
 c. The password is a minimum of 8 characters.
 
-d. The user clicks the sign-up button and a prompt message “Confirmation email.
+d. The user clicks the sign-up button and a prompt message “Confirmation email has been sent to the user's email address” shows.
 
-has been sent to the user's email address” shows.
 e. The user receives the confirmation email. (Simple text with confirmation code).
 
 f. A unique ID is what distinguishes different users.
@@ -82,9 +81,7 @@ i. Use local storage as your database.
 
 7. Log in
 
-a. When a user enters a registered email address and their password used in.
-
-registering, they should see a prompt which tells them that their login was successful.
+a. When a user enters a registered email address and their password used in registering, they should see a prompt which tells them that their login was successful.
 
 b. In the case of a correct email address (registered email) and a wrong password combination, the system should prompt them that their password is wrong.
 
