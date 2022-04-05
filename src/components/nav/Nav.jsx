@@ -9,7 +9,7 @@ import { desktop, tablet } from '../../constants/mediaQueries';
 import { routes } from '../../constants/routes';
 import Profile from './Profile';
 
-//Navigation througth homeIcome, moviesIcon, TvShowsIcon, BookIcon
+//Navigation througth HomeIcon, moviesIcon, TvShowsIcon, BookIcon
 
 function Nav() {
 	const { pathname } = useLocation();
