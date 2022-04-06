@@ -64,9 +64,9 @@ function SignUp() {
 								name='password'
 							/>
 							<Textbox
-								placeholder='Repeat password'
+								placeholder='Repeat Password'
 								type='password'
-								name='repeatPassword'
+								name='confirmPassword'
 							/>
 							{formik.values.error && <Error>{formik.values.error}</Error>}
 						</Fields>
